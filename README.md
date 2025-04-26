@@ -16,7 +16,7 @@
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/meghanath852/frontendcharp.git
+   git clone https://github.com/Mahi230504/Pathway.git
    cd cricket_chatbot
    ```
 
