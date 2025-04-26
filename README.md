@@ -17,7 +17,6 @@
 2. Clone this repository:
    ```bash
    git clone https://github.com/Mahi230504/Pathway.git
-   cd pathway
    ```
 
 3. Run the Docker setup script:
